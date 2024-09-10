@@ -8,7 +8,7 @@ Key features include a streamlined investor onboarding process with social login
 
 The lightpaper aims to demonstrate how CSX can position itself at the forefront of financial innovation in Southeast Asia, creating a more dynamic and accessible capital market for all Cambodians.
 
-# Executive Summary: CSX Blockchain - Modernized Cambodia's Stock Market
+# Executive Summary
 
 
 The Cambodia Securities Exchange (CSX) faces significant challenges that hinder its growth and accessibility to the broader Cambodian population. This litepaper presents an innovative blockchain-based solution to address these issues and modernize Cambodia's stock market.
